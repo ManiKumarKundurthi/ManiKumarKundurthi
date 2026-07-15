@@ -1,16 +1,15 @@
-## Hi there 👋
+<img src="./matrix-art-full.svg" alt="binary portrait" width="400" align="left" hspace="20">
 
-<!--
-**ManiKumarKundurthi/ManiKumarKundurthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mani Kumar Kundurthi
 
-Here are some ideas to get you started:
+**Data Scientist · Math Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: dynamic pricing engine (segmentation → elasticity modeling → optimization)
+- 🧠 Learning / exploring: ML self-study (math foundations → classical algorithms), fractional calculus
+- 🛠️ Tech stack: Python · Python · AWS · Dataiku
+- ✍️ Blog / writing: [Substack](https://substack.com/@manikumar950)
+- 🌐 Portfolio: [pf.manikumar.space](https://pf.manikumar.space)
+- 💼 LinkedIn: [in/codewithkmk](https://linkedin.com/in/codewithkmk)
+- 📫 Reach me: kmk@manikumar.space
+
+<br clear="left"/>
